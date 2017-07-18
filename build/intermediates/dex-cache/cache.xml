@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/6576e321483c34a6632baa9dd65a6df3dcbebb92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_bc9026234cc1e1f9937c384c116d1538d4c2a67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0-RC1/c425e31eda1069f978a0e823ad50e567ab422656/gifdecoder-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c425e31eda1069f978a0e823ad50e567ab422656">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/gifdecoder-4.0.0-RC1_a49d3203fe5abfb990fe5d4af677851dce27ab83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/okio-1.11.0_b5d258fa4933c55ca94437b96aeacf9a07c73ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/e1e1ecd5bad80227d1c40aceaf82256083889450/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_7723a24ce1b71c48041f3fd3969627d944be1294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/ca13f91c93f99cd28ddaf36b43ac7caae4c95068/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_e4e5d7da3d85761acc9a3590e06ab5913b81b24b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/5640bf0b0667326284032365f4d1be79e42f3338/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_0062868cd0283a4ac8c4b6c5bdecccdc12732e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/aa81d45898312cbd2d3cba1cdb3145466ec7431c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_e5613ab35bb9d1588b2ff72390bf7ad95d40b4a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0-RC1/84c524dcd1a3088edd5560a8ac176eae1317f770/annotations-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84c524dcd1a3088edd5560a8ac176eae1317f770">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/annotations-4.0.0-RC1_487879ee2bb00f86aa90cea7fb8a97c78afcf86b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/gson-2.4_0bbcd0e258c626c7201df59c6836486c44ba9c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/6a2db70bbd000a89620c54998ddac4a59d29797d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_111bfb45db364e35b0b659398019397c37aa71d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.5.1_e7a4fbe2f9c8b04296dfc5b275082c90e5753820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/70ce2fc066afc0380215eff00f51773968e134e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_ddf6b14596677c319041f6b41166d2f0ecf42152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/okhttp-3.5.0_3d1810649a4158220780de9f5829f97a2e37ca1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/8075396a85c8cd6efa7d1b0279b26e1d3ba64106/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_1231cf762e5bb0d20b9da7e0d5715d256f690751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_35de9e6f2d9e7461d0e4bcf3bcb0497f792c9183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_91d174502c4cbbb97acb76101bddd1be53e65cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/24105bc1185c4bc0cd7d78190e6b251c785fe35f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_74b4e6e21d3e069450100517c1bb991a44bf97f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/0ef0aef3dcb19feb5fde37f6fe28ec2af136af24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_7eda3d9fdcfc604600ecb5fba5bb2c6dacd48fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/939bb3763a00acf51d9a12f4332475cd977699c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_44fa76d644239186a8c54782f0ac0b883f15a550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/40981e39ea3c26854ae6746cca896dd6418d53d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_78e0cc6931551f6b1c3bfa18e693d764deeb1ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_afb14aaa8c05fde49157d8316f27836522861062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/d8e3abfa0f6cb6f308a67a41598b5bd98dbef9c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_88c1218875abbe6a648f5e343b68204bf148a9c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/4b9c4872e778150a1d452edcfe2d14c995d66d95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_6094acff75d00177ada0247df0836ae724def59b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0-RC1/1b4bba8f8d3df8db064c875c043c01e9ca3cdee9/disklrucache-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b4bba8f8d3df8db064c875c043c01e9ca3cdee9">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/disklrucache-4.0.0-RC1_0ec06165036e39675c4d1e5d6cd7aaec224b5bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/3b1efee982144336e722ca375d6b244c95305e74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_b09a1c57c4429b42d1aef724986abfc1373757a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/79324452f406884ff17719b0b0344ad814df0b48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_139375132a022437c2ccedbc72b491054e456a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.3.3/baseLibrary-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/baseLibrary-2.3.3_a13c89973c1c8bce4f7e9a2f1b7ba7e93f86f6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.android/build-cache/e2668a69c1750f8eff79598b6953e0efcaaa27db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/classes_6159a5c69280de0f350fd618aa771ee98e458044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.5.0/94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397/logging-interceptor-3.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94c11f915bfe1aeaa5ef6351ddfbe58bae1ea397">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.5.0_d053c177067d01e78093f03daac260c7477699d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fernandostone/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0-RC1/7baec7d5132e7343100a99630a56a6584a33addc/glide-4.0.0-RC1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7baec7d5132e7343100a99630a56a6584a33addc">
+        <dex dex="/Users/fernandostone/Downloads/TestFernandoPiedra/app/build/intermediates/pre-dexed/debug/glide-4.0.0-RC1_21f038ec09c3aad46a289dda701b4bcd06832cff.jar" />
+    </item>
+
+</items>

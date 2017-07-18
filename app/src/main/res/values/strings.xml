@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestFernandoPiedra</string>
+    <string name="error_general">Vaya!, parece que no hay conexión al servidor</string>
+    <string name="no_listeners">No hay listeners para el evento</string>
+    <string name="sin_conexion_internet">Vaya! no hay conexión a internet</string>
+    <string name="favoritos_url">https://gist.githubusercontent.com/la-ursic/3c5f25d5ee955ee9a6e493ac57884b9c/raw/5fab9af8e1f4db60419ba3a8da9f138cbb3a8461/Wish%2520lists</string>
+    <string name="favoritos">Favoritos</string>
+</resources>

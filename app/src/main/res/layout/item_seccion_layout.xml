@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="listItem"
+            type="test.com.mx.testfernandopiedra.entities.ListItem" />
+    </data>
+
+    <TextView
+        android:layout_height="80dp"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:layout_width="match_parent"
+        android:text="@{listItem.count}" />
+
+</layout>
